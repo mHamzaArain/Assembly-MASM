@@ -4,7 +4,7 @@ dosseg
 .stack 100h
 
 .data
-; size: 100, dup: duplicates ? 100 times
+; size: 100, dup: duplicates '$' 100 times
 var1 db 100 dup('$')           
 
 .code
