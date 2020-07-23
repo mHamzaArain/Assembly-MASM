@@ -81,11 +81,6 @@ dosseg                     ; Dos management: Manages the arrangement of directiv
             mov ah, 4ch
             int 21h
 
-        print:
-        
-
-
-
     main endp
 
 end main
