@@ -1,3 +1,5 @@
+; Program to take string & charaacter and return no of desired char as output
+
 dosseg
 .model small
 .stack 100h
