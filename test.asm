@@ -1,4 +1,4 @@
-; Program to take string & charaacter and return no of desired char as output
+; Program to count desired char from string
 
 dosseg
 .model small
