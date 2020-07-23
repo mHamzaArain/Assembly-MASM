@@ -1,5 +1,7 @@
 ; Program to count desired char from string
 
+; Code link: https://www.codepoc.io/blog/assembly-language/3876/program-to-find-the-length-of-a-string
+
 dosseg
 .model small
 .stack 100h
